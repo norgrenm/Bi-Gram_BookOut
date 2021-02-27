@@ -1,9 +1,4 @@
-# symmetrical-barnacle
+# Bi-Gram sentence creation, using no NLP Packages
 
-## Bi-Gram Non-NLP Packages
-
-Exploratory analysis of NLP based text or csv file. Modify into bigram model without any NLP packages. The intention is to create new sentences worth of content based on a single input value/word.
-
-Process:
-
+Creation of sentences in the voice of the author based on a single word input. Built by pairing words and utilizing their frequency to determine the next likely word. 
 
